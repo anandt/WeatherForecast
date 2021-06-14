@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "search.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "iconfinder_-_Magnifier-Search-Zoom-_3844467 (1) 2.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "iconfinder_-_Magnifier-Search-Zoom-_3844467 (1) 2 2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
